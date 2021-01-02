@@ -1,5 +1,5 @@
 # Exercice CLI (Command Line Interface) et API
-Exercice réalisé par Pierre T. et Victor M. lors du cours de Python de M. Clérice dans le cadre du Master TNAH de l'Ecole des chartes. Outil CLI permettant d'interagir avec l'API RNA (Registre National des Associations) afin de trouver les associations correspondant à un thème donné (*query*). Voir la [documentation](https://api.gouv.fr/les-api/api_rna) de l'API.
+Exercice réalisé par Pierre T. et Victor M. lors du cours de Python de M. Clérice dans le cadre du Master TNAH de l'Ecole nationale des chartes. Outil CLI permettant d'interagir avec l'API RNA (Registre National des Associations) afin de trouver les associations correspondant à un thème donné (*query*). Voir la [documentation](https://api.gouv.fr/les-api/api_rna) de l'API.
 
 # Syntaxe (terminal *bash*)
 
