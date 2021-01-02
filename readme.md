@@ -15,7 +15,7 @@ En cas de query à plusieurs mots, les mettre entre guillemets. Exemple : 'footb
 - Département
 - Objet
 
-## *Requirements*
+## *Requirements* :
 - Python3
 - Click
 - Requests
